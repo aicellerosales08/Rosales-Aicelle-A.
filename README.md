@@ -1,17 +1,24 @@
 Hi there 👋, I'm Aicelle Rosales  
 
-🎀 About Me
-• 🎓 BS Information Technology student at Laguna State Polytechnic University, specializing in **Web and Mobile Application Development**.  
-• 💻 Continuously improving my skills in **HTML, CSS, JavaScript, Python, Flutter (Dart), and C#**.  
-• 🎯 Passionate about **UI/UX Design** and **Front-End Development**, aiming to create impactful and user-friendly digital solutions.  
-• 🎨 Interested in **Web Design, Mobile App Development, and enhancing User Experience (UX)**.  
+I’m an aspiring UI/UX Designer and Front-End Developer who enjoys creating websites and mobile apps that are simple and easy to use. I have design skills in wireframing, prototyping, and user-focused design. I work with tools like Figma, Adobe XD, and Canva, and I know the basics of development using HTML, CSS, a bit of JavaScript, Python, Dart and C#. Most of my experience comes from school and personal projects, but I’m eager to learn more and grow while working on real projects.
 
-🛠 **Skills**  
-• **Design Tools:** Figma, Adobe XD, Canva  
-• **Programming:** HTML, CSS, JavaScript (Basic), Python, Flutter (Dart), C#  
-• **Core Competencies:** Wireframing, Prototyping, Responsive Design, Usability Testing  
 
-## 📂 **Current Projects**
+Skills & Expertise  
+
+ **UI/UX & Design Tools:**  
+  Skilled in **Figma**, **Adobe XD**, and **Canva** for creating high-quality wireframes, interactive prototypes, and visually appealing user interfaces.  
+
+ **Web Development:**  
+  Proficient in **HTML** and **CSS**, with a solid understanding of **JavaScript** for building responsive, user-friendly, and efficient websites.  
+
+ **Programming & Application Development:**  
+  Experienced in **Python**, **Flutter (Dart)**, and **C#** for developing functional applications ranging from cross-platform mobile apps to desktop systems.  
+
+ **Core Competencies:**  
+  Expertise in **Wireframing**, **Prototyping**, **Responsive Layouts**, and **Usability Testing**, ensuring seamless and engaging user experiences.  
+
+
+**Current Projects**
 
 ### **1. Missing Person Website**
 A **web-based platform** designed to help report and track missing persons.  
