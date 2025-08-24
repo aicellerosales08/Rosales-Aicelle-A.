@@ -49,9 +49,6 @@
 # 📈 Skill Progress Tracker  
 
 ### 🎨 UI/UX Design  
-![UI/UX](https://img.shields.io/badge/UI%2FUX-80%25-pink?style=for-the-badge&logo=figma&logoColor=white)  
-
-### 🎨 UI/UX Design  
 ![UI/UX](https://img.shields.io/badge/Progress-80%25-pink?style=for-the-badge)  
 
 ### 💻 Front-End Development  
