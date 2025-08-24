@@ -48,10 +48,13 @@
 ---
 # 📈 Skill Progress Tracker  
 
-### 🎨 UI/UX Design  
+### 🎨 UI/UX Design  \
+
+- **UI/UX**  
 ![UI/UX](https://img.shields.io/badge/Progress-80%25-pink?style=for-the-badge)
 
-![ADOBE XD](https://img.shields.io/badge/Progress-80%25-yellow?style=for-the-badge)  
+- **ADOBE XD**  
+![ADOBE XD](https://img.shields.io/badge/Progress-50%25-yellow?style=for-the-badge)  
 
 ### 💻 Front-End Development  
 
