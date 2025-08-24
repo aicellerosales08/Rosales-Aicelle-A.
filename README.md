@@ -1,9 +1,7 @@
 # Hi there 👋, I'm Aicelle Rosales  
 
-🌸 I’m an aspiring **UI/UX Designer** and **Front-End Developer** who enjoys creating websites and mobile apps that are simple, intuitive, and user-friendly.  
-🎨 Skilled in **wireframing, prototyping, and user-focused design** using tools like **Figma, Adobe XD, and Canva**.  
-💻 I also code with **HTML, CSS, JavaScript, Python, Dart, and C#** to bring designs to life.  
-
+I’m an aspiring UI/UX Designer and Front-End Developer who enjoys creating websites and mobile apps that are simple and easy to use.
+Most of my experience comes from school and personal projects, but I’m eager to learn more and grow while working on real projects.
 ---
 
 ## 🛠️ Skills & Expertise  
