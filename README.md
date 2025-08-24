@@ -49,10 +49,10 @@
 # 📈 Skill Progress Tracker  
 
 ### 🎨 UI/UX Design  
-![UI/UX](https://img.shields.io/badge/Progress-80%25-pink?style=for-the-badge)  
+![UI/UX](https://img.shields.io/badge/UI%2FUX-80%25-pink?style=for-the-badge&logo=figma&logoColor=white)  
 
 ### 💻 Front-End Development  
-![Frontend](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge)  
+![Frontend](https://img.shields.io/badge/Front--End-60%25-blue?style=for-the-badge&logo=javascript&logoColor=white)  
 
 ### ⚙️ Back-End Development  
-![Backend](https://img.shields.io/badge/Progress-30%25-orange?style=for-the-badge)  
+![Backend](https://img.shields.io/badge/Back--End-30%25-orange?style=for-the-badge&logo=node.js&logoColor=white)  
