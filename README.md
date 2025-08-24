@@ -49,11 +49,11 @@
 # 📈 Skill Progress Tracker  
 
 ### 🎨 UI/UX Design  
-![UI/UX Progress](https://progress-bar.dev/80/?title=UI%2FUX%20Design&width=300&color=ff69b4)  
+![UI/UX](https://img.shields.io/badge/Progress-80%25-pink?style=for-the-badge)  
 
 ### 💻 Front-End Development  
-![Frontend Progress](https://progress-bar.dev/60/?title=Front-End%20Dev&width=300&color=00bfff)  
+![Frontend](https://img.shields.io/badge/Progress-60%25-blue?style=for-the-badge)  
 
-### ⚙️ Back-End Development (Learning Phase)  
-![Backend Progress](https://progress-bar.dev/30/?title=Back-End%20Dev&width=300&color=ffa500)  
+### ⚙️ Back-End Development  
+![Backend](https://img.shields.io/badge/Progress-30%25-orange?style=for-the-badge)  
 
