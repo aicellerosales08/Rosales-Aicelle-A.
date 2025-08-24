@@ -46,13 +46,14 @@
 🔗 LinkedIn: [**Aicelle Rosales**](https://www.linkedin.com)  
 
 ---
+# 📈 Skill Progress Tracker  
 
-## 📊 GitHub Stats  
+### 🎨 UI/UX Design  
+![UI/UX Progress](https://progress-bar.dev/80/?title=UI%2FUX%20Design&width=300&color=ff69b4)  
 
-![Aicelle's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight](https://github.com/aicellerosales08))  
+### 💻 Front-End Development  
+![Frontend Progress](https://progress-bar.dev/60/?title=Front-End%20Dev&width=300&color=00bfff)  
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight](https://github.com/aicellerosales08))  
+### ⚙️ Back-End Development (Learning Phase)  
+![Backend Progress](https://progress-bar.dev/30/?title=Back-End%20Dev&width=300&color=ffa500)  
 
----
-
-⭐️ From [Aicelle Rosales](https://github.com/aicellerosales08)
