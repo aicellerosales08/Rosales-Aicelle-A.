@@ -49,10 +49,10 @@
 
 ## 📊 GitHub Stats  
 
-![Aicelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)  
+![Aicelle's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight](https://github.com/aicellerosales08))  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight](https://github.com/aicellerosales08))  
 
 ---
 
-⭐️ From [Aicelle Rosales](https://github.com/YOUR-USERNAME)
+⭐️ From [Aicelle Rosales](https://github.com/aicellerosales08)
