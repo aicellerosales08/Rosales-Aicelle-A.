@@ -57,3 +57,6 @@
 ### ⚙️ Back-End Development  
 ![Backend](https://img.shields.io/badge/Progress-30%25-orange?style=for-the-badge)  
 
+![UI/UX](https://media.giphy.com/media/3o7aD4gXj4tPL2g7I4/giphy.gif)  
+
+
