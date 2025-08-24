@@ -59,7 +59,10 @@
 ### 💻 Front-End Development  
 
 - **HTML & CSS**  
-  ![HTML CSS](https://img.shields.io/badge/Progress-80%25-green?style=for-the-badge)  
+  ![HTML CSS](https://img.shields.io/badge/Progress-80%25-green?style=for-the-badge)
+
+  - **PHP**  
+  ![PHP](https://img.shields.io/badge/Progress-50%25-red?style=for-the-badge)  
 
 - **JavaScript**  
   ![JavaScript](https://img.shields.io/badge/Progress-30%25-yellow?style=for-the-badge)  
