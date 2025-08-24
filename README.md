@@ -6,13 +6,6 @@
 
 ---
 
-
-## 🐾 Walking Cat Animation  
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />  
-
----
-
 ## 🛠️ Skills & Expertise  
 
 ### 🎨 UI/UX & Design Tools  
